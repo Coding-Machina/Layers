@@ -1,0 +1,5 @@
+C:\Users\harikrishnan.s\source\repos\Layers\L.DB\bin\Debug\L.DB.dacpac
+C:\Users\harikrishnan.s\source\repos\Layers\L.DB\bin\Debug\L.DB.dll
+C:\Users\harikrishnan.s\source\repos\Layers\L.DB\bin\Debug\L.DB.pdb
+C:\Users\harikrishnan.s\source\repos\Layers\L.DB\obj\Debug\L.DB.dll
+C:\Users\harikrishnan.s\source\repos\Layers\L.DB\obj\Debug\L.DB.pdb
